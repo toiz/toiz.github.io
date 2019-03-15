@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="18.555861mm"
+   height="6.9934702mm"
+   viewBox="0 0 18.555861 6.9934702"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="45.088665"
+     inkscape:cy="-89.159916"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="725"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(167.98077,-141.83986)">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2.69182301;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect823"
+       width="19"
+       height="19"
+       x="-168.20284"
+       y="135.83659"
+       inkscape:export-xdpi="561.47357"
+       inkscape:export-ydpi="561.47357" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:mononoki;-inkscape-font-specification:mononoki;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-211.66666"
+       y="135.22618"
+       id="text817"><tspan
+         sodipodi:role="line"
+         id="tspan815"
+         x="-211.66666"
+         y="135.22618"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Baron Neue';-inkscape-font-specification:'Baron Neue Heavy';stroke-width:0.26458332">TOIZ</tspan></text>
+    <g
+       aria-label="TOIZ"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:mononoki;-inkscape-font-specification:mononoki;letter-spacing:0px;word-spacing:0px;fill:#00d455;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text821">
+      <path
+         d="m -163.7037,142.09668 c 0,-0.0889 -0.0889,-0.1778 -0.21731,-0.1778 h -3.85233 c -0.11853,0 -0.20743,0.0889 -0.20743,0.1778 v 0.99766 c 0,0.079 0.0889,0.16792 0.20743,0.16792 h 1.17546 v 5.40315 c 0,0.079 0.0889,0.16792 0.20743,0.16792 h 1.08655 c 0.12842,0 0.21732,-0.0889 0.21732,-0.16792 v -5.40315 h 1.16557 c 0.12841,0 0.21731,-0.0889 0.21731,-0.16792 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Baron Neue';-inkscape-font-specification:'Baron Neue Heavy';fill:#00d455;stroke-width:0.26458332"
+         id="path825"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -160.54018,147.01582 c 1.45203,0 2.64724,-1.14582 2.64724,-2.5781 0,-1.4224 -1.19521,-2.59786 -2.64724,-2.59786 -1.46191,0 -2.65713,1.17546 -2.65713,2.59786 0,1.43228 1.19522,2.5781 2.65713,2.5781 z m 0,-3.74368 c 0.63217,0 1.13594,0.51364 1.13594,1.16558 0,0.66181 -0.50377,1.14582 -1.13594,1.14582 -0.63218,0 -1.14583,-0.48401 -1.14583,-1.14582 0,-0.65194 0.51365,-1.16558 1.14583,-1.16558 z m 2.35091,4.30671 c 0,-0.0889 -0.0889,-0.1778 -0.21731,-0.1778 h -4.32647 c -0.12841,0 -0.20743,0.0889 -0.20743,0.1778 v 1.08656 c 0,0.079 0.079,0.16792 0.20743,0.16792 h 4.32647 c 0.12841,0 0.21731,-0.0889 0.21731,-0.16792 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Baron Neue';-inkscape-font-specification:'Baron Neue Heavy';fill:#00d455;stroke-width:0.26458332"
+         id="path827"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -154.3303,143.26226 c 0.12841,0 0.20743,-0.0889 0.20743,-0.16792 v -0.99766 c 0,-0.0889 -0.079,-0.1778 -0.20743,-0.1778 h -2.56822 c -0.11854,0 -0.20744,0.0889 -0.20744,0.1778 v 0.99766 c 0,0.079 0.0889,0.16792 0.20744,0.16792 h 0.5334 v 4.22769 h -0.57292 c -0.11853,0 -0.20743,0.0889 -0.20743,0.16792 v 1.00754 c 0,0.079 0.0889,0.16792 0.20743,0.16792 h 2.64725 c 0.11853,0 0.20743,-0.0889 0.20743,-0.16792 v -1.00754 c 0,-0.079 -0.0889,-0.16792 -0.20743,-0.16792 h -0.56303 v -4.22769 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Baron Neue';-inkscape-font-specification:'Baron Neue Heavy';fill:#00d455;stroke-width:0.26458332"
+         id="path829"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -149.42491,147.56897 c 0,-0.0889 -0.0889,-0.1778 -0.21731,-0.1778 h -1.91629 c 0.69145,-1.73849 1.41253,-3.49673 2.10397,-5.23522 0.0494,-0.11853 -0.0296,-0.23707 -0.19756,-0.23707 h -3.82269 c -0.11854,0 -0.20744,0.0889 -0.20744,0.1778 v 1.08656 c 0,0.0889 0.0889,0.1778 0.20744,0.1778 h 1.91628 l -2.09408,5.23522 c -0.0494,0.11853 0.0198,0.23707 0.18767,0.23707 h 3.8227 c 0.12841,0 0.21731,-0.0889 0.21731,-0.16792 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Baron Neue';-inkscape-font-specification:'Baron Neue Heavy';fill:#00d455;stroke-width:0.26458332"
+         id="path831"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
